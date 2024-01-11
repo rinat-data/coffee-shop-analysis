@@ -1,10 +1,10 @@
-# Coffee Shop Dara Analysis ☕
+# Coffee Shop Data Analysis ☕️
 
 The data analysis for this project is done on a coffee shop. Using fake data, this initiative aims to offer insights on the sales and customer behavior of the coffee business.
 
 ## Data 💾
 
-The data used in this analysis is dummy data. The data includes information on customer's age, gender, favourite coffee, rating and feedback. The data was preprocessed to remove any irrelevant information.
+The data used in this analysis is dummy data. The data includes information on customer's age, gender, favorite coffee, rating and feedback. The data was preprocessed to remove any irrelevant information.
 
 ## Installation 💻
 
